@@ -1,0 +1,38 @@
+{
+  "name": "mirana",
+  "version": "0.0.0",
+  "description": "Reactive framework",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bsick7/mirana"
+  },
+  "keywords": [
+    "fayde",
+    "mirana",
+    "xaml",
+    "DependencyObject",
+    "DependencyProperty"
+  ],
+  "author": "Brad Sickles <brad.sickles@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bsick7/mirana/issues"
+  },
+  "homepage": "https://github.com/bsick7/mirana",
+  "devDependencies": {
+    "connect-livereload": "^0.5.0",
+    "grunt": "~0.4.4",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-qunit": "~0.4.0",
+    "grunt-contrib-symlink": "^0.3.0",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-open": "^0.2.3",
+    "grunt-typescript": "~0.3.0"
+  }
+}

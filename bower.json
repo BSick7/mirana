@@ -1,0 +1,27 @@
+{
+  "name": "mirana",
+  "version": "0.0.0",
+  "authors": [
+    "BSick7 <brad.sickles@gmail.com>"
+  ],
+  "description": "Reactive framework",
+  "main": "Gruntfile.js",
+  "keywords": [
+    "fayde",
+    "xaml",
+    "mirana",
+    "DependencyObject",
+    "DependencyProperty"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "build",
+    "node_modules",
+    "lib",
+    "test"
+  ],
+  "devDependencies": {
+    "qunit": "~1.16.0"
+  }
+}
